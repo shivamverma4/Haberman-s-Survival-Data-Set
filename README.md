@@ -8,3 +8,6 @@
  - Patient's year of operation (year - 1900, numerical)
  - Number of positive axillary nodes detected (numerical)
  - Survival status (class attribute) 1 = the patient survived 5 years or longer 2 = the patient died within 5 year
+
+
+## For conclusion drawn from the DataSet is explained in the Python Notebook with analysis of every character.
